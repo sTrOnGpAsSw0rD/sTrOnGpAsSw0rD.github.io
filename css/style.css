@@ -1,0 +1,51 @@
+h1{
+  font-family: Georgia, serif;
+  color: #3a5367;
+  text-align: center;
+  
+}
+
+
+
+h2{
+  font-family: Georgia, serif;
+  color: #356598;
+  text-align: center;
+  
+}
+
+h3{
+    font-family: Georgia, serif;
+  color: #4c76a3;
+  text-align: center;
+  
+}
+li{
+      font-family: Georgia, serif;
+  color: #7796b8;
+  text-align: center;
+  
+}
+iframe{
+  align: center;
+
+}
+
+li{
+  list-style-type: none;
+}
+
+.photo{
+  width: 500px;
+  height: 281px;
+  margin: auto;
+  display: block;
+}
+#video{
+    width: 500px;
+  height: 281px;
+  margin: auto;
+  display: block;
+  
+  
+}
